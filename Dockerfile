@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-ENV VERSION=5.2.4
+ENV VERSION=6.0.2
 
 # Services
 EXPOSE 6666
